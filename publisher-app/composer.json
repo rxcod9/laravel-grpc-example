@@ -9,7 +9,7 @@
         "php": "^8.2",
         "google/protobuf": "^4.31",
         "grpc/grpc": "^1.57",
-        "laravel/framework": "^12.0",
+        "laravel/framework": "^13.0",
         "laravel/tinker": "^2.10.1",
         "spiral/roadrunner": "^2025.1",
         "spiral/roadrunner-grpc": "^3.5"
