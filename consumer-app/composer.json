@@ -10,7 +10,7 @@
         "google/protobuf": "^4.31",
         "grpc/grpc": "^1.57",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1",
+        "laravel/tinker": "^3.0.0",
         "spiral/roadrunner": "^2025.1",
         "spiral/roadrunner-cli": "^2.7",
         "spiral/roadrunner-grpc": "^3.5"
